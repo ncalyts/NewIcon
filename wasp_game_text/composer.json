@@ -1,0 +1,14 @@
+{
+    "name": "neilclayton/wasp_game_text",
+    "description": "NewIcon Developer Task",
+    "authors": [
+        {
+            "name": "Neil Clayton",
+            "email": "neilclayton1983@outlook.com"
+        }
+    ],
+    "require": {},
+    "require-dev": {
+        "phpunit/phpunit": "^9.4"
+    }
+}
